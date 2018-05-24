@@ -1,7 +1,5 @@
 package Ex1;
 
-import ex1.SerVivo;
-
 public abstract class Sith extends SerVivo{
 	
 	private double PercentualRaiva;
